@@ -1,0 +1,43 @@
+#table{
+    
+    margin-top: 5px;
+    border-collapse: separate;
+    border-spacing: 4px 6px  ;
+    
+}
+#tableth{
+    height: 70px;
+  
+    background-color: #c30edc;
+    border-right: white 1px solid;
+    color: white;
+    
+}
+#tabletr{
+    height: 70px;
+    
+    background-color: #377ce8 ;
+    color: white;
+    
+}
+
+#table td{
+    border-right: white 1px solid;
+
+}
+#table th{
+    border-right: white 1px solid;
+
+}
+.btn{
+    width: 33%;
+    height: 40px;
+    background-color: white;
+    color: black;
+}
+.editbtn{
+    width: 33%;
+    height: 40px;
+    background-color: white;
+    color: black;
+}
